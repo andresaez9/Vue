@@ -35,16 +35,16 @@ npm run build
 ![](./src/assets/documentation/home.png)
 
 - **Search All:** The user can search all neighborhoods.
-![](/src/assets/documentation/search_neighborhood.png)
+![](./src/assets/documentation/search_neighborhood.png)
 
 - **Filter All:** The user filter all neighborhoods.
-![](/src/assets/documentation/filter_all_neighborhoods.png)
+![](./src/assets/documentation/filter_all_neighborhoods.png)
 
 - **Search One:** The user can search one neighborhood.
-![](/src/assets/documentation/search_one_neighborhood.png)
+![](./src/assets/documentation/search_one_neighborhood.png)
 
 - **Filter One:** The user can filter one neighborhood.
-![](/src/assets/documentation/filter_one_neighborhood.png)
+![](./src/assets/documentation/filter_one_neighborhood.png)
 
 ## Other Techs Used
 
