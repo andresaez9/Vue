@@ -32,7 +32,7 @@ npm run build
 ## Pages and Functionalities
 
 - **Home:** Main Page when starting project, we can search all or specific one neighborhood or filter them.
-![](/src/assets/documentation/home.png)
+![](./src/assets/documentation/home.png)
 
 - **Search All:** The user can search all neighborhoods.
 ![](/src/assets/documentation/search_neighborhood.png)
